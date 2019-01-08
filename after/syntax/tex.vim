@@ -1,9 +1,4 @@
 " add some extra tags in comments
-" syn keyword texExtraTodo TODO containedin=texCommentGroup
-" syn keyword texExtraNote NOTE containedin=texCommentGroup
-" syn keyword texExtraInfo INFO containedin=texCommentGroup
-" syn keyword texExtraImportant IMPORTANT WARNING containedin=texCommentGroup
-
 syn keyword texExtraTodo contained TODO
 syn keyword texExtraNote contained NOTE
 syn keyword texExtraInfo contained INFO
